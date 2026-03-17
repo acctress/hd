@@ -52,6 +52,6 @@ func main() {
 			}
 		}
 
-		fmt.Printf("\x1b[38;5;189m%0*d    \x1b[38;5;217m%s    \x1b[38;5;69m|%s|	\x1b[0m\n", offsetlen, i, hex_str.String(), ascii_str.String())
+		fmt.Printf("\x1b[38;5;189m%0*d    \x1b[38;5;217m%s    \x1b[38;5;69m|%s|\x1b[0m\n", offsetlen, i, hex_str.String(), ascii_str.String())
 	}
 }
