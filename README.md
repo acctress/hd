@@ -12,4 +12,5 @@ Arguments:
 ```
 
 # Example
+<img width="592" height="146" alt="image" src="https://github.com/user-attachments/assets/f771c68a-49c2-424e-b211-af81ab156d9b" />
 <img width="524" height="733" alt="image" src="https://github.com/user-attachments/assets/a8ccdee3-250c-4edb-928d-5969c1316987" />
