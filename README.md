@@ -9,6 +9,8 @@ Arguments:
   	File (default "test.txt")
 -ofl int
   	Offset length (default 8)
+-search string
+  	Search for a pattern
 ```
 
 # Example
